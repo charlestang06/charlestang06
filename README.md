@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-<h4 align="center">My name is Charles Tang and I'm currently a junior at the Mass Academy of Math & Science @ WPI. I'm particularly interested in computer science, artificial intelligence, deep learning, computer vision, and applied mathematics. 
+<h4 align="center">My name is Charles Tang and I'm currently a senior at the Mass Academy of Math & Science @ WPI. I'm particularly interested in computer science, artificial intelligence, deep learning, computer vision, and applied mathematics. 
 
 <div align="center">
   <h3 align="center">Highlighted Projects</h3>
