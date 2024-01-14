@@ -5,6 +5,8 @@
   <h3 align="center">Highlighted Projects</h3>
   <h5>MAMS SISO: A digitized sign-in/out system at Mass Academy</h5>
   <p>https://github.com/DigitalSignInMams</p>
+  <h5>WPI Roadmap: Plan your academic successes at WPI (2024 GoatHacks Winner)</h5>
+  <p>https://github.com/WPI-Roadmap</p>
   <h5>Pantry Access: A universal food pantry web application</h5>
   <p>https://github.com/Pantry-Access-AFG</p>
   <h5>2023 International Mathematical Modelling Challenge</h5>
