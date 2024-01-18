@@ -9,10 +9,6 @@
   <p>https://github.com/WPI-Roadmap</p>
   <h5>Pantry Access: A universal food pantry web application</h5>
   <p>https://github.com/Pantry-Access-AFG</p>
-  <h5>2023 International Mathematical Modelling Challenge</h5>
-  <p>https://github.com/charlestang06/2023_IM2C_Solution_Team_12519</p>
-  <h5>Viral transmissions in pedestrian models: a simulated study</h5>
-  <p>https://github.com/charlestang06/Viral-Transmission-Pedestrian-Model</p>
 </div>
   
 <div align="center">
