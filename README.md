@@ -7,6 +7,8 @@
   <p>https://github.com/DigitalSignInMams</p>
   <h5>WPI Roadmap: Plan your academic successes at WPI (2024 GoatHacks Winner)</h5>
   <p>https://github.com/WPI-Roadmap</p>
+  <h5>Proj-X: Kickstart your career with projects</h5>
+  <p>https://github.com/Proj-X-HBP</p>
   <h5>Pantry Access: A universal food pantry web application</h5>
   <p>https://github.com/Pantry-Access-AFG</p>
 </div>
