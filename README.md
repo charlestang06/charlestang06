@@ -7,7 +7,7 @@
   <p>https://github.com/DigitalSignInMams</p>
   <h5>WPI Roadmap: Plan your academic successes at WPI (2024 GoatHacks Winner)</h5>
   <p>https://github.com/WPI-Roadmap</p>
-  <h5>NECYSC Portal</h5>
+  <h5>NECYSC Portal (Project Manager of Team of 15)</h5>
   <p>https://github.com/fullstackatbrown/project-necysc</p>
 </div>
   
