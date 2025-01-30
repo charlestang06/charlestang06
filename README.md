@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!</h1>
-<h4 align="center">My name is Charles Tang and I'm currently a Computer Science + Applied Math student at Brown. I'm particularly interested in data science, software engineering, artificial intelligence, deep learning, computer vision, and operations research.
+<h4 align="center">My name is Charles Tang and I'm currently a Computer Science + Applied Math student at Brown. I'm particularly interested in software engineering, artificial intelligence, deep learning, computer vision, and operations research.
 
 <div align="center">
   <h3 align="center">Highlighted Projects</h3>
